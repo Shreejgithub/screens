@@ -5,6 +5,11 @@ function App() {
   return (
     <div className="App">
       Hello Developer
+     <h1>
+        We are Front-End Team
+     </h1> 
+
+      Screens  for Omik infotech
     </div>
   );
 }
