@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      Screens for Omik infotech
       Hello Developer
      <h1>
         We are Front-End Team
