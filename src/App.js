@@ -10,6 +10,7 @@ function App() {
      </h1> 
 
       Screens  for Omik infotech
+      location Pune
     </div>
   );
 }
