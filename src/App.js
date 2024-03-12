@@ -1,15 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Header from './components/Header';
+
 
 function App() {
   return (
-    <div className="App">
-      Hello Developer
-     <h1>
-        We are Front-End Team
-     </h1> 
-
-      Screens  for Omik infotech
+    <div>
+     <Header/>
     </div>
   );
 }
